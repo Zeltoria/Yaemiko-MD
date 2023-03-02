@@ -28,24 +28,24 @@ const readMore = more.repeat(4001)
 
 
 global.owner = [
-['62895627413377', true],
-['628889616144', true],
-['6285776353741', 'Zeltoria', true]
+['Xxxxx', true],
+['Xxxxx', true],
+['Xxxxx', 'Zeltoria', true] // isi nomor lu
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283872069307'
-global.nomorown = '6285776353741'
-global.nomorown1 = '6285776353741'
-global.nomorown2 = '6285776353741'
-global.nomorwa = '0'
+global.nomorbot = 'xxxx' // nomor bot lu
+global.nomorown = 'xxxx' // nomor lu
+global.nomorown1 = 'xxxx' // nomor lu
+global.nomorown2 = 'xxxx' // nomor lu
+global.nomorwa = '0' // biarin aja
 
 
 global.readMore = readMore
-global.author = 'Zeltoria'
-global.namebot = '​Yaemiko-MD'
-global.wm = '© Yaemiko By Zeltoria'
-global.media = 'https://telegra.ph/file/d368a50703e77d972118b.jpg'
+global.author = 'Zeltoria' // ganti
+global.namebot = '​Yaemiko-MD' // ganti
+global.wm = '© Yaemiko By Zeltoria' // ganti
+global.media = 'https://telegra.ph/file/d368a50703e77d972118b.jpg' // biarin aja
 global.watermark = wm
 global.wm2 = 'Zeltoria'
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
